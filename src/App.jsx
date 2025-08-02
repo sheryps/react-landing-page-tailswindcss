@@ -10,9 +10,9 @@ import MonitorSection from './components/MonitorSection'
 import PricingSection from './components/PricingSection'
 import ServicesSection from './components/ServicesSection'
 import TestimonialsSection from './components/TestimonialsSection'
-import NewsSection from './components/NewsSection'
 
 import Footer from './components/Footer'
+import News  from './components/News'
 
 function App() {
 
@@ -30,7 +30,7 @@ function App() {
         <PricingSection/>
         <ServicesSection/>
         <TestimonialsSection/>
-        <NewsSection/>
+        <News/>
         <Footer/>
       </div>
     </main>

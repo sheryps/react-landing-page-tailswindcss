@@ -1,6 +1,6 @@
 import React from 'react'
 import { HiArrowRight } from 'react-icons/hi'
-export const NewsSection = () => {
+export const News = () => {
   return (
     <section id="newsLetter" className="container mx-auto px-4 sm:px-6 lg:px-8 py-16">
       <div 
